@@ -133,8 +133,17 @@ h1 {
   width: 75%;
 }
 
+#language-columns {
+  display: flex;
+}
+
 #language-container {
   display: flex;
+  flex-direction: column;
+}
+
+#language-container:first-of-type {
+  margin-right: 25px;
 }
 
 #competence-container {
