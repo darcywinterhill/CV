@@ -58,7 +58,7 @@ b {
   display: flex;
   flex-direction: column-reverse;
   justify-content: flex-start;
-  width: 100%
+  width: 100%;
 }
 
 /* Displayed second in mobile view, left side in other sizes*/
